@@ -22,6 +22,6 @@
             <h1>Page 1</h1>
             <p>Página 1 do site de demonstração httpSession</p>
         <%} %>  
-        
+        <%@include file="WEB-INF/jspf/rodape.jspf" %>
     </body>
 </html>

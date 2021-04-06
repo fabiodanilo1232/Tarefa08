@@ -16,4 +16,5 @@
         <h1>Index</h1>
         <p>Site de demonstração httpSession</p>
     </body>
+    <%@include file="WEB-INF/jspf/rodape.jspf" %>
 </html>
